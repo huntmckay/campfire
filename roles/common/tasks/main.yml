@@ -1,1 +1,5 @@
 ---
+- name: setup sudo permissions with {{ username.name }}
+  template:
+    src: sudoers.j2
+    dest: /etc/sudoers.d/{{ username.name }}

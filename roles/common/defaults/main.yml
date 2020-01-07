@@ -3,3 +3,6 @@ packages:
 
 git_projects:
   - campfire
+
+username: 
+  name: hunter
