@@ -1,0 +1,4 @@
+---
+- name: import playbooks
+  import_playbook:
+    - common.yml

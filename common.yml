@@ -1,0 +1,5 @@
+---
+- name: run common
+  hosts: localhost
+  roles:
+    role: common
