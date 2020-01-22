@@ -1,5 +1,2 @@
-packages:
-  - git
-
 git_projects:
   - campfire
