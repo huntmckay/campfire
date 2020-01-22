@@ -1,13 +1,11 @@
 ---
-
-
-
 - name: Update, Upgrade, and clean the apt cache for a debian or ubuntu host
   block:
 
     - name: Update all packages to the latest version
       apt:
         upgrade: dist
+      ignore_warnings: yes
 
     - name: Upgrade all packages to the latest version
       apt:
