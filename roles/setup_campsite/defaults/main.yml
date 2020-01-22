@@ -11,6 +11,8 @@ packages:
     - vim
     - discord
     - firefox
+    - dashlane
+    
   remove:
     - nano
 
