@@ -1,0 +1,23 @@
+---
+- name: setup sudo permissions with {{ user.name }}
+  template:
+    src: sudoers.j2
+    dest: /etc/sudoers.d/{{ user.name }}
+
+- name: install all required pacakges
+  apt: 
+    name: "{{ packages.install }}"
+    state: present
+
+- name: remove all unrequired pacakges
+  apt: 
+    name: "{{ packages.remove }}"
+    state: present
+
+- name: Remove useless packages from the cache
+  apt:
+    autoclean: yes
+
+- name: Remove dependencies that are no longer required
+  apt:
+    autoremove: yes

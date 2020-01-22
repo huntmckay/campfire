@@ -1,0 +1,22 @@
+---
+user: 
+  name: hunter
+
+packages:
+  install:
+    - git
+    - vscode
+    - python36
+    - python36-pip
+    - vim
+    - discord
+    - firefox
+  remove:
+    - nano
+
+vscode:
+  extensions:
+    - gitlens
+    - python
+    - yaml
+    - remote ssh
