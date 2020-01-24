@@ -19,7 +19,8 @@ fatal: unable to auto-detect email address (got 'hunter@camp.(none)')
 
 1. Figure out how to push to git without auth every single time
 1. how to have an email spawn everyime a playbook finishes
-
+# NOTES
+Warnings can be ignored by changing a setting in the cfg
 
 # Common
 - updates

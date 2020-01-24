@@ -1,4 +1,7 @@
 ---
-- name: import playbooks
-  import_playbook:
-    - common.yml
+- hosts: localhost
+  become: yes
+  tasks:
+    - import_role:
+        name: common
+  tags: ['common']
