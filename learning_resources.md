@@ -43,8 +43,7 @@
 - [OWASP Vuln Web apps](https://ctfchallenge.com/)
 - [Cryopgraphy training](https://cryptohack.org/courses/)
 
-#Text editors
-## This is list in incomplete
+# Text editors
 ## [vim](https://linuxconfig.org/vim-tutorial)
 Pros: Lightening Fast and powerful <br>
 Cons: Steep learning curve, painful at times
