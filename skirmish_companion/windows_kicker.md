@@ -1,6 +1,3 @@
-### Something like this layout is a good starting place to build chapters
-# Well defined processes, automations, 
-
 01. Machine and Operating system information.
 02. User accounts and current login information.
 03. Network configuration and connectivity information.
