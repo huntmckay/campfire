@@ -23,6 +23,7 @@
 - [Other exploitations](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 
 # Networking
+- [elastic demo room](https://demo.elastic.co/app/dashboards)
 - [Network Enum](https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap)
 
 # Incident Response / Cyber Security Fundimentals
