@@ -15,6 +15,8 @@
 - [Project Based Practice](https://github.com/livialima/linuxupskillchallenge)
 - [Exploit Misconfigurations](https://gtfobins.github.io/)
 - [Deeper Fundimentals](https://missing.csail.mit.edu/)
+- [Customize terminal](https://github.com/alebcay/awesome-shell)
+- [Container Primer](https://iximiuz.com/en/posts/container-learning-path/)
 
 # Windows
 - [what is powershell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
@@ -36,7 +38,6 @@
 - [python beginners guide](https://wiki.python.org/moin/BeginnersGuide)
 - [what even is programing](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home)
 
-
 # Capture the flag / Code Golf
 - [SANS Holiday Hacks](https://www.holidayhackchallenge.com/2022/)
 - [PicoCTF and Gym](https://picoctf.org/)
@@ -48,6 +49,7 @@
 ## [vim](https://linuxconfig.org/vim-tutorial)
 Pros: Lightening Fast and powerful <br>
 Cons: Steep learning curve, painful at times
+- [Vim adventures](https://vim-adventures.com/)
 ## [vscode](https://code.visualstudio.com/docs/introvideos/basics)
 Pros: Easy to learn, Feature rich, follows windows command palette macros <br>
 Cons: GUI based
@@ -58,7 +60,9 @@ Cons: not faster then vim, not as feature rich as vscode (without doing a lot of
 Pros: Simple, Better then no text editor, on most linux systems by default <br>
 Con: Simple, limit used
 
+
 # Project Discovery / Entertainment
 - [Fireship.io Youtube](https://www.youtube.com/@Fireship)
 - [Ben eater comp science](https://www.youtube.com/@BenEater)
 - [10 ten API Vulns explained](https://www.youtube.com/watch?v=aejtKvd583w)
+- [Make better passwords](https://www.youtube.com/watch?v=3NjQ9b3pgIg)
