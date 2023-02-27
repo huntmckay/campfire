@@ -37,6 +37,7 @@
 - [http reponse website](https://httpbin.org/)
 - [python beginners guide](https://wiki.python.org/moin/BeginnersGuide)
 - [what even is programing](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home)
+- [Ruby koans](https://www.rubykoans.com/)
 
 # Capture the flag / Code Golf
 - [SANS Holiday Hacks](https://www.holidayhackchallenge.com/2022/)
