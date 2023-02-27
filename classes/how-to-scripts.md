@@ -54,8 +54,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 # how_to_bash.sh
 
 Bash is a command-line interpreter and it is widely used for automation and system administration of GNU/Linux Operating Systems. 
+Bourne Again SHell
 
+pretty much everything linux is going to run 
 
+file needs to start with shebang (#!)
+needs to be executable (chmod +x hello.sh)
+does not need to end with .sh
 
 # how_to_powershell.ps1
 [Link](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
