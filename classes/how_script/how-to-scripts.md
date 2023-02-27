@@ -62,9 +62,34 @@ file needs to start with shebang (#!)
 needs to be executable (chmod +x hello.sh)
 does not need to end with .sh
 
+for all intents and purposes bash is going to spawn a new process for each command and treats it as such. a bash script is a large collection of instructions.
+
+## Bash Scripting Tutorial 1
+
+vim hello.sh
+
+## Bash Scripting Tutorial 2
+
+Teach them not to bury sudo in a script if they can help it
+
+## Bash Check on learning
+
+** IDK NEEDS TEST **
+
 # how_to_powershell.ps1
 [Link](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
 
 PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
 
 It is often found on Windows, but can be used in other places where it may be installed. 
+
+If Bash is the command line interpreter for linux, powershell is the command line interpreter for windows
+
+# how_to_ruby.rb
+
+Step 1: google ruby and figure out how it works
+
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. ...according to their website
+
+sudo apt install ruby -y 
+https://www.ruby-lang.org/en/documentation/
