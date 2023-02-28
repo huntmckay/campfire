@@ -91,5 +91,26 @@ Step 1: google ruby and figure out how it works
 
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. ...according to their website
 
-sudo apt install ruby -y 
+Step 2: install ruby and its interepter
+sudo apt install ruby irb -y 
 https://www.ruby-lang.org/en/documentation/
+
+## Ruby Scripting Tutorial 1
+
+vim hello.rb
+
+## Ruby Scripting Tutorial 2
+
+irb -v (gives irb version)
+irb
+
+## Ruby Check on Learning
+
+** IDK NEEDS TEST **
+
+# Final Thoughts
+
+Python - portable and easy to learn, most common
+Ruby - Portable and easy to learn, less common
+Bash - portable within linux, lots of documentation, will make you a better linux sysad
+powershell - portable within windows (getting better with .net), lots of  really good documentation, will make you a better windows sysad
