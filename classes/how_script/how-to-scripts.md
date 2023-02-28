@@ -25,7 +25,7 @@ The syntax of a programming language describes which strings of of characters co
 ---
 # how-to-python.py
 [link](https://realpython.com/run-python-scripts/)
-
+[interact with python](https://realpython.com/interacting-with-python/)
 Python is often refered to as a Programming language, but it is also the name of the interepter. 
 
 An interpreted language needs a piece of software between the user and the computer that will convert the high-level code into something more useable by the computer. An interpreter can be written in C, Java, Python or .NET (we wont go deep into this).
