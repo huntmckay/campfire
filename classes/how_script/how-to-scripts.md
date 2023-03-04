@@ -40,50 +40,18 @@ vim hello.py
 
 ## Tutorial 2 python interpreter
 
-1. open a shell and type `python3`
+open a shell and type `python3`
+
 ```powershell
 PS C:\Projects\campfire> python.exe
 Python 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
 ## Check on learning Python
 
 ** IDK NEEDS TEST **
-
-# how_to_bash.sh
-
-Bash is a command-line interpreter and it is widely used for automation and system administration of GNU/Linux Operating Systems. 
-Bourne Again SHell
-
-pretty much everything linux is going to run 
-
-file needs to start with shebang (#!)
-needs to be executable (chmod +x hello.sh)
-does not need to end with .sh
-
-for all intents and purposes bash is going to spawn a new process for each command and treats it as such. a bash script is a large collection of instructions.
-
-## Bash Scripting Tutorial 1
-
-vim hello.sh
-
-## Bash Scripting Tutorial 2
-
-Teach them not to bury sudo in a script if they can help it
-
-## Bash Check on learning
-
-** IDK NEEDS TEST **
-
-# how_to_powershell.ps1
-[Link](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
-
-PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
-
-It is often found on Windows, but can be used in other places where it may be installed. 
-
-If Bash is the command line interpreter for linux, powershell is the command line interpreter for windows
 
 # how_to_ruby.rb
 
@@ -108,9 +76,38 @@ irb
 
 ** IDK NEEDS TEST **
 
+# how_to_bash.sh
+
+Bash is a command-line interpreter and it is widely used for automation and system administration of GNU/Linux Operating Systems. 
+Bourne Again SHell
+
+pretty much everything linux is going to run 
+
+file needs to start with shebang (#!)
+needs to be executable (chmod +x hello.sh)
+does not need to end with .sh
+
+for all intents and purposes bash is going to spawn a new process for each command and treats it as such. a bash script is a large collection of instructions.
+
+## Bash Scripting Tutorial 1
+
+vim hello.sh
+
+# how_to_powershell.ps1
+
+PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
+
+It is often found on Windows, but can be used in other places where it may be installed. 
+
+If Bash is the command line interpreter for linux, powershell is the command line interpreter for windows
+
+## Powershell Scripting Tutorial 1
+
+vim hello.ps1
+
 # Final Thoughts
 
-Python - portable and easy to learn, most common
+Python - Portable and easy to learn, most common
 Ruby - Portable and easy to learn, less common
-Bash - portable within linux, lots of documentation, will make you a better linux sysad
-powershell - portable within windows (getting better with .net), lots of  really good documentation, will make you a better windows sysad
+Bash - fairly specific to linux, lots of documentation, will make you a better linux sysad
+powershell - fairly specific to windows (getting better with .net), lots of  really good documentation, will make you a better windows sysad
