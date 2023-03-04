@@ -1,3 +1,4 @@
+# hello.ps1
 write-output 'hello'
 
 # but cooler
