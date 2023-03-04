@@ -1,5 +1,4 @@
 # hello.rb
-
 puts "hello"
 
 # but even cooler
@@ -15,10 +14,12 @@ def name_printer (myname)
   elsif myname.class == Integer
      puts "beep boop I am robot, my serial number is #{myname}"
   else
-     raise "Strings or Integers only"
+     puts "name input '#{myname}' is date type'#{myname.class}'"
+     raise "Input for name can only be a string or integer"
+
   end
 end
 
 name_printer "hunter"
-name_printer 22
-#name_printer(1.1)
+name_printer 12341234
+name_printer 1.1
