@@ -1,0 +1,10 @@
+set rnu
+set nu
+set wildmenu
+set shiftwidth=4
+set expandtab
+set nobackup
+set incsearch
+set showmatch
+set hlsearch
+set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx

@@ -1,3 +1,4 @@
+# hello.py
 print('hello')
 
 # but even cooler
@@ -5,15 +6,16 @@ myname = 'hunter'
 print(f'hello from {myname}')
 
 # even fancier
-def name_printer(name):
+def name_printer(myname):
 
-    if type(name) == str:
-        print(f'hello my name is {name}')
-    elif type(name) == int:
-        print(f'beep boop I am robot, my serial number is {name}') 
+    if type(myname) == str:
+        print(f'hello my name is {myname}')
+    elif type(myname) == int:
+        print(f'beep boop I am robot, my serial number is {myname}') 
     else:
-        raise AssertionError('Strings or Integers only')
+        print(f"name input '{myname}' is date type'{type(myname)}'\n")
+        raise AssertionError(f"Input for name can only be a string or integer")
 
 name_printer('hunter')
-name_printer(22)
-#name_printer(1.1)
+name_printer(12341234)
+name_printer(1.1)

@@ -22,7 +22,6 @@
 - [what is powershell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
 - [windows fundimentals](https://learn.microsoft.com/en-us/training/browse/?levels=beginner&roles=administrator&expanded=security&resource_type=learning%20path&products=windows)
 - [Exploit Misconfigurations](https://lolbas-project.github.io/#)
-- [Other exploitations](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 
 # Networking
 - [elastic demo room](https://demo.elastic.co/app/dashboards)
