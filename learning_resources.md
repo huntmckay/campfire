@@ -1,10 +1,10 @@
 ### *Disclaimer* Learning is free, we pay with our free time.
 
 # [Start by making yourself a github account](https://docs.github.com/en/get-started/quickstart/hello-world)
-1. Earmarking progress is important to fight impostors syndrome
-2. saving code, notes, anything feels good when a computer dies
-3. git is a colaborative tool, most of the technology world lives in git repos
-4. your mind is for solving problems, notes are keeping track of solutions
+1. Earmarking progress is important to fight impostor syndrome
+2. Saving code, notes, anything feels good when a computer dies
+3. Git is a colaborative tool, most of the technology world lives in git repos
+4. Your mind is for solving problems, notes are keeping track of solutions (you can keep more than code in repo)
 5. fantastic resume talking point
 
 # Linux
@@ -44,6 +44,9 @@
 - [Hard to Solve math problems](https://projecteuler.net/)
 - [OWASP Vuln Web apps](https://ctfchallenge.com/)
 - [Cryopgraphy training](https://cryptohack.org/courses/)
+
+# Documentation
+- [Markdown in 60 seconds](https://commonmark.org/help/)
 
 # Text editors
 ## [vim](https://linuxconfig.org/vim-tutorial)
