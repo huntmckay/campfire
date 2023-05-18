@@ -17,6 +17,7 @@
 - [Deeper Fundimentals](https://missing.csail.mit.edu/)
 - [Customize terminal](https://github.com/alebcay/awesome-shell)
 - [Container Primer](https://iximiuz.com/en/posts/container-learning-path/)
+- [Computer Science Fundimentals](https://teachyourselfcs.com/)
 
 # Windows
 - [what is powershell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
