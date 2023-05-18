@@ -24,6 +24,9 @@
 - [windows fundimentals](https://learn.microsoft.com/en-us/training/browse/?levels=beginner&roles=administrator&expanded=security&resource_type=learning%20path&products=windows)
 - [Exploit Misconfigurations](https://lolbas-project.github.io/#)
 
+# Databases
+- [Interactive SQL Tutorial](https://selectstarsql.com/)
+
 # Networking
 - [elastic demo room](https://demo.elastic.co/app/dashboards)
 - [Network Enum](https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap)
