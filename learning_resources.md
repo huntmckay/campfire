@@ -38,6 +38,7 @@
 - [what even is programing](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home)
 - [Ruby koans](https://www.rubykoans.com/)
 - [full stack python](https://www.fullstackpython.com/)
+- [best starting python resources](https://www.fullstackpython.com/best-python-resources.html)
 
 # Capture the flag / Code Golf
 - [SANS Holiday Hacks](https://www.holidayhackchallenge.com/2022/)
@@ -54,6 +55,7 @@
 Pros: Lightening Fast and powerful <br>
 Cons: Steep learning curve, painful at times
 - [Vim adventures](https://vim-adventures.com/)
+- [Vim Koans](https://blog.sanctum.geek.nz/vim-koans/)
 ## [vscode](https://code.visualstudio.com/docs/introvideos/basics)
 Pros: Easy to learn, Feature rich, follows windows command palette macros <br>
 Cons: GUI based
@@ -70,3 +72,4 @@ Con: Simple, limit used
 - [Ben eater comp science](https://www.youtube.com/@BenEater)
 - [10 ten API Vulns explained](https://www.youtube.com/watch?v=aejtKvd583w)
 - [Make better passwords](https://www.youtube.com/watch?v=3NjQ9b3pgIg)
+- [Project Kindling](https://nedbatchelder.com/text/kindling.html)
