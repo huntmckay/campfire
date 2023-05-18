@@ -34,6 +34,7 @@
 # Incident Response / Cyber Security Fundimentals
 - [Intro to Cyber](https://tryhackme.com/path/outline/introtocyber)
 - [Blueteaming](https://tryhackme.com/path/outline/blueteam)
+- [CyberChef Training](https://github.com/mattnotmax/cyberchef-recipes)
 
 # Programing
 - [git hub api for webrequests](https://api.github.com/)
