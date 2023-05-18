@@ -53,6 +53,7 @@
 
 # Documentation
 - [Markdown in 60 seconds](https://commonmark.org/help/)
+- [Github Pages](https://pages.github.com/)
 
 # Text editors
 ## [vim](https://linuxconfig.org/vim-tutorial)
