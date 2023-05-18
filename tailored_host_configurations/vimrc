@@ -19,6 +19,7 @@ let mapleader=","       " leader is comma
 nnoremap <space> za
 inoremap jk <esc>
 nnoremap <leader>s :mksession<CR>
-nnoremap <leader>n :bn
-nnoremap <leader>b :bp
-nnoremap <leader>l :ls
+nnoremap <leader>n :bn<enter>
+nnoremap <leader>b :bp<enter>
+nnoremap <leader>l :ls<enter>
+nnoremap <leader>d :bd<enter>
