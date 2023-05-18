@@ -26,6 +26,7 @@
 
 # Databases
 - [Interactive SQL Tutorial](https://selectstarsql.com/)
+- [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
 # Networking
 - [elastic demo room](https://demo.elastic.co/app/dashboards)
