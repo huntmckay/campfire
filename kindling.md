@@ -43,6 +43,7 @@
 - [Ruby koans](https://www.rubykoans.com/)
 - [full stack python](https://www.fullstackpython.com/)
 - [best starting python resources](https://www.fullstackpython.com/best-python-resources.html)
+- [racket-lang](https://docs.racket-lang.org/quick/)
 
 # Capture the flag / Code Golf
 - [SANS Holiday Hacks](https://www.holidayhackchallenge.com/2022/)
