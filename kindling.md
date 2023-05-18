@@ -54,6 +54,7 @@
 # Documentation
 - [Markdown in 60 seconds](https://commonmark.org/help/)
 - [Github Pages](https://pages.github.com/)
+- [Practical Typography](https://practicaltypography.com/)
 
 # Text editors
 ## [vim](https://linuxconfig.org/vim-tutorial)
