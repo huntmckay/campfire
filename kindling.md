@@ -29,6 +29,9 @@
 - [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 - [Designing Highly Scalable Database Architectures](https://www.red-gate.com/simple-talk/databases/sql-server/performance-sql-server/designing-highly-scalable-database-architectures/)
 
+# Indsutrial Control Systems
+- [NIST 800-82](https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final)
+
 # Networking
 - [elastic demo room](https://demo.elastic.co/app/dashboards)
 - [Network Enum](https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap)
