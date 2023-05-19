@@ -40,6 +40,7 @@
 - [Intro to Cyber](https://tryhackme.com/path/outline/introtocyber)
 - [Blueteaming](https://tryhackme.com/path/outline/blueteam)
 - [CyberChef Training](https://github.com/mattnotmax/cyberchef-recipes)
+- [C2M2](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2)
 
 # Programing
 - [git hub api for webrequests](https://api.github.com/)
