@@ -27,6 +27,7 @@
 # Databases
 - [Interactive SQL Tutorial](https://selectstarsql.com/)
 - [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
+- [Designing Highly Scalable Database Architectures](https://www.red-gate.com/simple-talk/databases/sql-server/performance-sql-server/designing-highly-scalable-database-architectures/)
 
 # Networking
 - [elastic demo room](https://demo.elastic.co/app/dashboards)
