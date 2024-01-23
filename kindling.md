@@ -7,6 +7,9 @@
 4. Your mind is for solving problems, notes are keeping track of solutions (you can keep more than code in repo)
 5. fantastic resume talking point
 
+# artificial intelligence
+- [Composable-Diffusion-demo](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)
+
 # Linux
 - [Start Here](bandit.labs.overthewire.org)
 - [Linux Fundamentals](https://academy.hackthebox.com/course/preview/linux-fundamentals)
